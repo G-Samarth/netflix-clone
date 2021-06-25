@@ -5,3 +5,7 @@
 .App {
     background-color: #111;
 }
+
+::-webkit-scrollbar {
+    display: none;
+}
